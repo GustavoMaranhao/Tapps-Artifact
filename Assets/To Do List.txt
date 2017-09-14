@@ -1,0 +1,24 @@
+Implementar os controles do jogador, pinch para zoom, rotate com touch simples e double tap and hold para movimentar; - Ok
+
+Verificar como fixar orientação landscape em mobile; - Ok, deixar inverter?
+
+Mostrar o rio apenas depois de falar com o cubo a primeira vez;
+
+Jogando o cubo no rio vermelho gera colecionáveis para o player;
+Coletar recursos do outro lado da ponte;
+HUD com recursos - Colecionáveis, se pegar todos acaba o minigame - Silhuetas para demonstrar progresso conversando com o outro cubo
+Colecionar os cubos diferentes jogados no rio;
+Recursos usados para fazer o cubo sofrer mutações - Pseudo Random com % baseada no número de recursos com um mínimo;
+Recursos aparecem aleatoriamente com o tempo;
+Minigame clicker para ver quanto de cada recurso é coletado;
+
+Lerp entre cameras;
+
+
+
+
+
+Spawn no cubo branco ao iniciar o minigame;
+Será móvel apenas com um objeto dentro;
+Objetivo do minigame é colocar coisas dentro do cubo;
+Com o cubo tendo um número mínimo de coisas o NPC o transformará em alguma outra coisa para jogar no rio;
